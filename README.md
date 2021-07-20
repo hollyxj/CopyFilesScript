@@ -1,5 +1,11 @@
 # CopyFilesScript
-During my time at GE as a Digital Intern for Summer 2021 I was tasked with writing a simple PowerShell script to copy the contents of one folder to another folder to automate the process of manually updating the contents of folders on many servers.
+<!-- wp:paragraph -->
+<p>During my time at GE as a Digital Intern for Summer 2021 I was tasked with writing some PowerShell scripts to automate the process of software deployments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One script I created was used to copy the contents of one folder to another folder to automate the process of continually updating data on multiple servers. I can share this script because it does not involve anything GE-specific and can be used to transfer data between folders on any windows machine.</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>How it works:</strong></p>
