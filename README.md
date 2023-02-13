@@ -1,6 +1,6 @@
 # CopyFilesScript
 <!-- wp:paragraph -->
-<p>During my time at GE as a Digital Intern for Summer 2021 I was tasked with writing some PowerShell scripts to automate the process of software deployments.</p>
+<p>During my time at GE Digital as a Software Engineering Intern for Summer 2021 I was tasked with writing some PowerShell scripts to automate the process of software deployments.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
